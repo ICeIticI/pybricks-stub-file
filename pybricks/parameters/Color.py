@@ -1,0 +1,9 @@
+# pybricks/parameters/Color.py
+class Color:
+    BLACK: Any
+    BLUE: Any
+    GREEN: Any
+    YELLOW: Any
+    RED: Any
+    WHITE: Any
+    BROWN: Any

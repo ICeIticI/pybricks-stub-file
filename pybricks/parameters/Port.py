@@ -1,0 +1,10 @@
+# pybricks/parameters/Port.py
+class Port:
+    A: Any
+    B: Any
+    C: Any
+    D: Any
+    S1: Any
+    S2: Any
+    S3: Any
+    S4: Any
